@@ -41,7 +41,7 @@ body {
 }
 
 .flex-item:hover{
-    background-color: rgb(209, 209, 209);
+    background-color: rgb(233, 233, 233);
     transform: scale(1.2);
 
 }
